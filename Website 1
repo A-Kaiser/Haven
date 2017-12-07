@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+        
+        body{
+            background: rgb(35, 152, 184);
+        }
+        
+        h1{
+            font-family: fantasy;
+        }
+        
+        h3{
+            font-family: fantasy;
+        }
+        
+        h2{
+            font-family: fantasy;
+        }
+        
+        section {
+             color: rgb(14, 14, 15);
+             font-family: monospace;
+             font-weight:bold;
+             font-size:15px;
+             background-color: yellow;
+             padding: 3%;
+             float: left;
+             width: 91.3%;
+             margin: 1%;
+            }
+            
+            h6{
+             font-family: fantasy;
+             font-size: 20px;
+             font-style: italic;
+            }
+            
+            
+            
+            
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1>Blu's blog</h1>
+
+        <h3>Contents</h3>
+        
+        <ul>
+            <li><a href="#POOR">My Super Ultra Mega Dumb Life</a></li>
+           <li><a href="#PANIC">NO TIME TO PANIC</a></li>
+        </ul>
+        
+        <h2>My Super Ultra Mega Dumb Life</h2>
+        <h6 id="Poor">December 6, 2017</h6>
+    <section>    
+        <p>It all started when I was a young filly on the streets of Ohio...</p>
+    </section>
+    <section>
+        <p>I was a poor kid. This fine day I was wearing my favorite hand-me-down pants- black with red stitching, large pockets and lovely clunky zippers throughout- and a light pink shirt with a blue tye-dye swirl right in the center.</p>
+    </section>
+    <section>
+        <p> I had crafted a stick into a sword and a pizza box into a shield and was swinging away at a graffiti infested brickwall. Little did I know I was being watched..</p>
+     </section>
+     
+     <h2>NO TIME TO PANIC</h2>
+     
+     <h6 id="PANIC">December 7, 2017</h6>
+     
+     <section>    
+        <p>Right before my eyes, day turned to night and the ground underneath my feet transformed into lush green grass. Buildings morphed into trees and the wall I had been beating became a large boulder.</p>
+     </section>
+     
+     <section>    
+        <p>WHERE WAS I? One minute I'm in a town and the next I'm in the middle of a forest!?</p>
+     </section>
+     
+     <section>    
+        <p>TO BE CONTINUED...</p>
+     </section>
+    
+        
+    </body>
+</html>
