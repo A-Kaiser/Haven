@@ -96,6 +96,7 @@
   <footer>
    <p>What'll You Do When The Chapter Ends?</p>
    <p>Will You Close The Book And Never Read It Again?</p>
+   <p>Where Will You Go When The Story's Done?</p>
   </footer>
 
 
