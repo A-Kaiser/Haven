@@ -1,0 +1,15 @@
+<!--  --><suite name= "FirstTestNGProjectSuite" >
+  <test name= "Practice Grouping" >
+     <groups>
+     
+     <run>
+     <include name="Car" />
+     </run>
+     
+     </groups>
+     
+     <classes>
+          <class name= "FirstTestNGPackage.FirstTestNGGroup"/>
+     </classes>
+   </test>
+</suite> 
